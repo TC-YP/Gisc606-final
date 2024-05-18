@@ -1,3 +1,3 @@
-# <font color="green" > Gisc606-final </font>
+# Gisc606-final
 
 Responses to final for GISci 606
